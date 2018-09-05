@@ -5,4 +5,5 @@ Midi modif
 12:30
 J'ajoute un truc
 Un truc en plus
-Voila de la nouveauté depuis le client
+Voila de la nouveautÃ© depuis le client
+En voila depuis le repository
